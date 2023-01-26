@@ -9,4 +9,4 @@ puts nil.class
 puts h.class
 puts :symbol.class
 puts [].class
-puts (1..8).class
+puts 1.class
