@@ -10,3 +10,4 @@ puts h.class
 puts :symbol.class
 puts [].class
 puts 1.class
+puts Hash.new { |X, key| X[key] =  }
